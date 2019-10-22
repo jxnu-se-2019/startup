@@ -1,6 +1,6 @@
 # How to use git
 ## What is git
-http://marklodato.github.io/visual-git-guide/index-zh-cn.html
+https://www.liaoxuefeng.com/wiki/896043488029600
 
 ## Download git bash
 click https://git-scm.com/downloads to download git bash, and install it.
