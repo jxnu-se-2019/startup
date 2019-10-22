@@ -10,4 +10,4 @@ click https://git-scm.com/downloads to download git bash, and install it.
 - Clone this repository
 - Create a new branch named with your name(ouyangfei)
 - Create a md file to introduce yourself, and push it to your branch
-- Create a new merge request to merge your branch into master branch
+- Create a new pull request to merge your branch into master branch
